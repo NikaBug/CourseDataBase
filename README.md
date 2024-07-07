@@ -24,6 +24,10 @@ CourseDataBase має наступні функції:
 ![MainForm screenshot](./Screenshots/main-form.png)
 - Форма таблиці товарів — містить таблицю з даними, панель керування та кнопку для створення звітної інформації.
 ![GoodsForm screenshot](./Screenshots/goods-form.png)
+- Форма звіту для товарів — містить таблицю-звіт та спеціальний звіт.
+![GoodsForm screenshot](./Screenshots/report-goods-form.png)
+- Звіт для таблиці товарів, експортований як excel.
+- ![GoodsForm screenshot](./Screenshots/report-gf-excel.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Project Status
