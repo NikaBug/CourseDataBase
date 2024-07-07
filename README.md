@@ -20,6 +20,9 @@ CourseDataBase має наступні функції:
 
 ## Screenshots
 <!-- ![Example screenshot](./img/screenshot.png) -->
+Головна форма — меню з вибором таблиць бази даних.
+![MainForm screenshot](./Screenshots/main-form.png)
+<br clear="left"/>
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Project Status
