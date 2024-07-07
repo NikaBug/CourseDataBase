@@ -9,7 +9,7 @@ CourseDataBase — курсовий проєкт, метою якого є ро�
 <!-- * [License](#license) -->
 ## General Information
 - ER (Entity-Relationship) модель бази даних
-![ER screenshot](./Screenshots/ER_diagr21.png)
+![ER screenshot](./Screenshots/ER_diagr21.jpg)
 
 ## Technologies Used
 - .NET Framework - version 4.7.2
