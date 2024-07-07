@@ -14,9 +14,9 @@ CourseDataBase — курсовий проєкт, метою якого є ро�
 ![DatabaseDiagram screenshot](./Screenshots/DbDiagram_MSSMS.png)
 
 ## Technologies Used
-- .NET Framework - version 4.7.2
-- Microsoft.ReportingServices.ReportViewerControl.Winforms - version 150.1586.0
-- Microsoft.SqlServer.Types - version 14.0.314.76
+- .NET Framework - version 4.7.2;
+- Microsoft.ReportingServices.ReportViewerControl.Winforms - version 150.1586.0;
+- Microsoft.SqlServer.Types - version 14.0.314.76.
 
 ## Features
 CourseDataBase має наступні функції:
