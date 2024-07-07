@@ -26,9 +26,8 @@ CourseDataBase має наступні функції:
 ![GoodsForm screenshot](./Screenshots/goods-form.png)
 - Форма звіту для товарів — містить таблицю-звіт та спеціальний звіт.
 ![GoodsForm screenshot](./Screenshots/report-goods-form.png)
-- Звіт для таблиці товарів, експортований як excel.
-- ![GoodsForm screenshot](./Screenshots/report-gf-excel.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+- Звіт для таблиці товарів, експортований у форматі excel.
+![GoodsForm screenshot](./Screenshots/report-gf-excel.png)
 
 ## Project Status
 Проєкт завершено 25 грудня 2023 року.
