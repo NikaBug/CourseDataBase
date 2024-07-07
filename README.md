@@ -20,9 +20,12 @@ CourseDataBase має наступні функції:
 
 ## Screenshots
 <!-- ![Example screenshot](./img/screenshot.png) -->
-Головна форма — меню з вибором таблиць бази даних.
+- Головна форма — меню з вибором таблиць бази даних.
 ![MainForm screenshot](./Screenshots/main-form.png)
 <br clear="left"/>
+<br>
+- Форма таблиці товарів — містить таблицю з даними про товари, панель керування даними та кнопку для створення звітної інформації.
+![GoodsForm screenshot](./Screenshots/goods-form.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Project Status
