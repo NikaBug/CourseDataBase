@@ -1,12 +1,15 @@
 # CourseDataBase
 CourseDataBase — курсовий проєкт, метою якого є розробка настільного додатку Windows для роботи з реляційною базою даних онлайн-магазину товарів.
 ## Table of Contents
- <!-- * [General Info](#general-information) -->
+* [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
 <!-- * [License](#license) -->
+## General Information
+- ER (Entity-Relationship) модель бази даних
+![ER screenshot](./Screenshots/ER_diagr21.png)
 
 ## Technologies Used
 - .NET Framework - version 4.7.2
@@ -25,9 +28,9 @@ CourseDataBase має наступні функції:
 - Форма таблиці товарів — містить таблицю з даними, панель керування та кнопку для створення звітної інформації.
 ![GoodsForm screenshot](./Screenshots/goods-form.png)
 - Форма звіту для товарів — містить таблицю-звіт та спеціальний звіт.
-![GoodsForm screenshot](./Screenshots/report-goods-form.png)
+![ReportGoodsForm screenshot](./Screenshots/report-goods-form.png)
 - Звіт для таблиці товарів, експортований у форматі excel.
-![GoodsForm screenshot](./Screenshots/report-gf-excel.png)
+![ReportGFExcel screenshot](./Screenshots/report-gf-excel.png)
 
 ## Project Status
 Проєкт завершено 25 грудня 2023 року.
