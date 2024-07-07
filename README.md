@@ -10,6 +10,8 @@ CourseDataBase — курсовий проєкт, метою якого є ро�
 ## General Information
 - ER (Entity-Relationship) модель бази даних
 ![ER screenshot](./Screenshots/ER_diagr21.jpg)
+- Діаграма бази даних із середовища SQL Server Management Studio
+![DatabaseDiagram screenshot](./Screenshots/DbDiagram_MSSMS.png)
 
 ## Technologies Used
 - .NET Framework - version 4.7.2
